@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://dex-ai.io/ja</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/cases</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/cases" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/cases" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/cases/railway-inspection</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/cases/railway-inspection" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/cases/railway-inspection" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/cases/roadtwin-ai</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/cases/roadtwin-ai" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/cases/roadtwin-ai" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/cases/beautyflow-ai</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/cases/beautyflow-ai" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/cases/beautyflow-ai" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/history</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/history" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/history" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://dex-ai.io/ja/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://dex-ai.io/ja/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://dex-ai.io/en/privacy" />
+<lastmod>2026-07-06T12:07:19.771Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>

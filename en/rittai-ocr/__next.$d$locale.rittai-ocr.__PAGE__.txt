@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[21532,["/_next/static/chunks/2lskem5w1u854.js","/_next/static/chunks/3xgfz1-1bmo20.js","/_next/static/chunks/1mhzbh4astchr.js","/_next/static/chunks/0nghplv3a4h8d.js","/_next/static/chunks/3pw2586u6lxqa.js"],"JaProductRedirect"]
+3:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"href":"/rittai-ocr","label":"立体OCR（日本語）"}],[["$","script","script-0",{"src":"/_next/static/chunks/0nghplv3a4h8d.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3pw2586u6lxqa.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"utf_rGdcQxo-yVdyFOCnQ"}
+5:null

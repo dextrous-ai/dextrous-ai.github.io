@@ -1,5 +1,9 @@
-:HL["/_next/static/chunks/1kj3x3l72ou36.css","style"]
-:HL["/_next/static/chunks/1bf6h70sstb63.css","style"]
+:HL["/_next/static/chunks/2j-a6jvfu6fii.css","style"]
+:HL["/_next/static/chunks/0ah7lcyxjtfi9.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":8,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ja","siblings":null},"prefetchHints":20,"slots":{"children":{"name":"news","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tech-meets-2026-10","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"00wJ37Ak_l6YzcEUp_ri6"}
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"tech-meets-2026-10","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"news","h":64,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ja","s":[]},"h":52,"c":"$Q2"}]]
+0:{"b":"lOpoyevjgnDt7XByzY8tO","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
